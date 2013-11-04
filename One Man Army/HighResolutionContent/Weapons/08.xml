@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Seeker Launcher</Name>
+    <FireRate>1.0</FireRate>
+    <Accuracy>.95</Accuracy>
+    <Velocity>450</Velocity>
+    <Damage>0.6</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>8</AmmoPerClip>
+    <MovementType>2</MovementType>
+    <BulletRadius>6</BulletRadius>
+    <DamageRadius>32</DamageRadius>
+    <AnimationLength>0.2</AnimationLength>
+    <IsBulletTrail>1</IsBulletTrail>
+    <SoundFrequency>1</SoundFrequency>
+  </Asset>
+</XnaContent>

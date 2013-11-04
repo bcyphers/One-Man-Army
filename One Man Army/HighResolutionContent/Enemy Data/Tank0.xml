@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.TankData">
+    <MaxHealth>.5</MaxHealth>
+    <ShotsPerPause>1</ShotsPerPause>
+    <MoveSpeed>128.0</MoveSpeed>
+    <OptimumDistFromPlayer>250.0</OptimumDistFromPlayer>
+    <Polygon>
+      -64 0
+      -64 -20
+      -48 -52
+      0 -80
+      48 -52
+      64 -20
+      64 0
+    </Polygon>
+    <MaxOverheatTime>2.5</MaxOverheatTime>
+    <OverheatFactor>1</OverheatFactor>
+  </Asset>
+</XnaContent>

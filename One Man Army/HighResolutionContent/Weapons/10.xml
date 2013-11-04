@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Nuker</Name>
+    <FireRate>2.0</FireRate>
+    <Accuracy>.95</Accuracy>
+    <Velocity>700</Velocity>
+    <Damage>2</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>4</AmmoPerClip>
+    <MovementType>1</MovementType>
+    <BulletRadius>8</BulletRadius>
+    <DamageRadius>128</DamageRadius>
+    <AnimationLength>0.25</AnimationLength>
+    <IsBulletTrail>0</IsBulletTrail>
+    <SoundFrequency>1</SoundFrequency>
+  </Asset>
+</XnaContent>

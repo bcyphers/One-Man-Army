@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Tank 3</Name>
+    <FireRate>0.5</FireRate>
+    <Accuracy>.95</Accuracy>
+    <Velocity>400</Velocity>
+    <Damage>.1</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>0</AmmoPerClip>
+    <MovementType>2</MovementType>
+    <BulletRadius>6</BulletRadius>
+    <DamageRadius>32</DamageRadius>
+    <AnimationLength>0.1</AnimationLength>
+    <IsBulletTrail>1</IsBulletTrail>
+    <SoundFrequency>1</SoundFrequency>
+  </Asset>
+</XnaContent>

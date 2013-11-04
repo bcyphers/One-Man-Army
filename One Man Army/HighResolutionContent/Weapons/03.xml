@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Assault Rifle</Name>
+    <FireRate>0.1</FireRate>
+    <Accuracy>0.9</Accuracy>
+    <Velocity>700</Velocity>
+    <Damage>0.05</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>64</AmmoPerClip>
+    <MovementType>0</MovementType>
+    <BulletRadius>4</BulletRadius>
+    <DamageRadius>4</DamageRadius>
+    <AnimationLength>0.05</AnimationLength>
+    <IsBulletTrail>0</IsBulletTrail>
+    <SoundFrequency>2</SoundFrequency>
+  </Asset>
+</XnaContent>

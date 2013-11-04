@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3777"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="Crouch Idle.svg">
+  <defs
+     id="defs3779" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="687.38968"
+     inkscape:cy="258.62303"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3782">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4310"
+       inkscape:export-filename="C:\Users\Bennett\Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Player\Crouch Idle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <image
+         style="opacity:0"
+         width="64"
+         height="48"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAwCAIAAAAuKetIAAAAA3NCSVQICAjb4U/gAAABH0lEQVRo
+ge1ZQQ6DMAwL095G38w+xw69TFBQGjtNWesbUgm2nDZpWHbZxQdpTb+P22fz+MpCF3DgfQZXyYsY
+SxTslWv0oDlgoEWxguxAe3AE2LKCkksEAQgPXMNMoWigAvAcACMM70A4poBooALwdgCMMLwD4SAI
+QHIAz0COAzYes50W4V4p9U0B8VZJcyCEvYi8wferWjGPwQQkQMneaaCSYU+hHtiLWUAn7MUmoB/2
+YtgDGvZtqGfwC1lL9lJbyFhTwR4LWRWI49EKAdyhLCva45u5KSAaIwkwn32ulQFtpzNsFNOaWt+J
+r77HPWGrMNIeuMe9CX7boLwHAlOiFgUHHsRezgIas58/+f5PgF+5LS5wKWSGoMpXDssoZ+sX1BFq
+4BENYZoAAAAASUVORK5CYII=
+"
+         id="image3793"
+         x="670.85712"
+         y="771.2193" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 676.78755,817.63548 c -2.20117,-2.65226 0.10428,-4.87223 5.422,-5.22097 4.96524,-0.32563 5.27384,-0.72659 3.52065,-4.57441 -0.6198,-1.36033 -0.84493,-3.59682 -0.50029,-4.96999 0.82783,-3.29833 5.35399,-8.59643 8.30118,-9.71695 l 2.3513,-0.89397 -2.01264,-3.75513 c -2.42556,-4.52558 -2.50305,-6.44901 -0.43536,-10.80636 3.19369,-6.73019 12.42342,-8.20499 17.78637,-2.84204 5.68394,5.68395 3.88913,14.56555 -3.70661,18.34207 -2.28636,1.13676 -5.50703,3.17942 -7.15703,4.53924 l -3,2.4724 6.12756,0.005 c 3.71119,0.003 6.51109,0.49789 7.10016,1.25496 0.53494,0.6875 1.47267,4.37482 2.08386,8.19404 1.18568,7.40915 0.55405,9.55593 -2.81158,9.55593 -2.49601,0 -3.65291,-1.84213 -4.39616,-7 l -0.64846,-4.5 -5.46377,0.34174 -5.46378,0.34175 0.98609,1.84251 c 1.3451,2.51336 1.24036,6.31972 -0.21392,7.774 -1.89434,1.89434 -16.23449,1.58633 -17.86957,-0.38382 z"
+         style="fill:#464646;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

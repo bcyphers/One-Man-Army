@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Thumper</Name>
+    <FireRate>0.5</FireRate>
+    <Accuracy>.95</Accuracy>
+    <Velocity>700</Velocity>
+    <Damage>0.35</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>12</AmmoPerClip>
+    <MovementType>1</MovementType>
+    <BulletRadius>5</BulletRadius>
+    <DamageRadius>32</DamageRadius>
+    <AnimationLength>0.25</AnimationLength>
+    <IsBulletTrail>0</IsBulletTrail>
+    <SoundFrequency>1</SoundFrequency>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3826"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="repair.svg"
+   inkscape:export-filename="C:\Users\Bennett\Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Power Ups\repair.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3828" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#464646;fill-opacity:1"
+       d="m 298.64789,563.57075 c -0.2248,-0.64508 -0.30986,-14.89787 -0.18902,-31.67287 l 0.21971,-30.5 27.83385,-0.26597 c 17.3197,-0.16549 29.31969,0.13413 31.76728,0.7932 l 3.93344,1.05917 -0.30921,29.71561 c -0.17006,16.34359 -0.65878,30.28124 -1.08604,30.97256 l -0.77683,1.25695 -30.49223,-0.0929 -30.49223,-0.0929 -0.40872,-1.17287 z m 58.26107,-3.06992 c 0.34009,-0.34009 0.79033,-11.30239 1.00051,-24.36065 0.21018,-13.05827 0.46922,-25.06579 0.57563,-26.6834 l 0.19348,-2.9411 -2.5,-0.70922 c -1.375,-0.39007 -13.99298,-0.75408 -28.03996,-0.8089 l -25.53995,-0.0997 -0.10944,27.8003 -0.10944,27.8003 20.08724,0.22087 c 11.04798,0.12148 20.3402,0.48388 20.64939,0.80533 0.70136,0.72917 12.94867,-0.17997 13.79254,-1.02385 z m -47.57737,-7.47025 c -2.41363,-2.09333 -2.66714,-5.02096 -1.38212,-7.44844 1.20048,-2.26777 3.1661,-3.64937 5.75119,-3.66895 1.19102,-0.009 5.41082,-3.42175 10.26734,-8.30363 l 8.24525,-8.28831 -0.61463,-3.07319 c -0.79621,-3.98104 1.69154,-8.8394 5.54723,-10.83325 3.37546,-1.74552 4.9316,-1.86637 7.02117,-0.54523 l 1.48844,0.94107 -3.25268,3.35592 -3.25269,3.35592 2.52569,2.37276 2.5257,2.37277 3.3043,-3.20265 c -1.91761,1.81222 3.49731,-3.3051 3.49731,-3.3051 0,0 1.17549,1.89292 1.17549,3.3539 0,5.89267 -6.63951,11.44908 -12.39142,10.37002 l -3.14845,-0.59066 -8.1189,8.25216 -8.1189,8.25215 -0.63581,3.63981 c -0.94371,2.50312 -0.72469,2.51811 -2.86116,4.23635 -3.67738,0.98576 -5.31142,0.71744 -7.57235,-1.24346 z m 5.59699,-4.3827 c -0.47189,-2.04702 -2.45879,-1.8914 -2.58333,0.25 -0.18334,0.55 0.41666,1 1.33333,1 0.91667,0 1.41279,-0.54383 1.25,-1.25 z"
+       id="path3872"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsscssccccccsscsscccsscccscscssscccccscsscccccccscss"
+       inkscape:export-filename="C:\Users\Bennett\Documents\My Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Power Ups\repair.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

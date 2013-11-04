@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.HeliData">
+    <Acceleration>512.0</Acceleration>
+    <MaxHealth>1</MaxHealth>
+    <MaxMoveSpeed>400</MaxMoveSpeed>
+    <MaxVerticalSpeed>128.0</MaxVerticalSpeed>
+    <Polygon>
+      -98 4
+      -36 -32
+      42 -32
+      98 16
+      98 64
+      -30 64
+    </Polygon>
+    <MaxOverheatTime>3</MaxOverheatTime>
+    <OverheatFactor>1</OverheatFactor>
+  </Asset>
+</XnaContent>

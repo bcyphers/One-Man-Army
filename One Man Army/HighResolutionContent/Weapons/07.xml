@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Chaingun</Name>
+    <FireRate>0.05</FireRate>
+    <Accuracy>0.85</Accuracy>
+    <Velocity>700</Velocity>
+    <Damage>0.035</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>192</AmmoPerClip>
+    <MovementType>0</MovementType>
+    <BulletRadius>4</BulletRadius>
+    <DamageRadius>4</DamageRadius>
+    <AnimationLength>0.025</AnimationLength>
+    <IsBulletTrail>0</IsBulletTrail>
+    <SoundFrequency>3</SoundFrequency>
+  </Asset>
+</XnaContent>

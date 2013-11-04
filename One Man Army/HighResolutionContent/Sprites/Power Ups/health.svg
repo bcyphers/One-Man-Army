@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3798"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="health.svg"
+   inkscape:export-filename="C:\Users\Bennett\Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Power Ups\health.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3800" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#464646;fill-opacity:1"
+       d="m 342.87263,560.44849 c -0.23723,-0.38385 -0.46912,-14.28385 -0.5153,-30.88887 l -0.084,-30.19096 1.93668,-1.03648 1.93668,-1.03648 28.61676,0 28.61677,0 1.51909,3.6357 1.51909,3.63569 -0.43702,26.85147 -0.43702,26.85147 -1.26562,1.52498 -1.26562,1.52498 -29.85459,-0.0868 c -16.42003,-0.0477 -30.04869,-0.40085 -30.28593,-0.78471 z m 57.32378,-3.08108 1.4182,-0.89766 0.0818,-26.53404 0.0818,-26.53404 -1.2464,-1.24939 -1.2464,-1.24938 -25.42512,0.0889 c -13.98382,0.0489 -25.92518,0.39793 -26.53637,0.77567 l -1.11124,0.68678 0.1742,25.17074 c 0.0958,13.8439 0.0573,25.62073 -0.0857,26.17073 -0.14292,0.55 -0.20656,1.48018 -0.14143,2.06706 l 0.11842,1.06707 23.69527,0.21154 c 13.0324,0.11635 23.9074,0.42367 24.16667,0.68294 0.78368,0.78368 4.54454,0.49996 6.05627,-0.4569 z m -30.71821,-7.27171 -1.2,-1.2 0,-6.8 0,-6.8 -7.3,0 -7.3,0 -1.2,-1.2 c -1.55247,-1.55247 -1.55247,-8.04753 0,-9.6 l 1.2,-1.2 7.3,0 7.3,0 0,-7.3 0,-7.3 1.2,-1.2 c 0.66,-0.66 3.045,-1.2 5.3,-1.2 2.255,0 4.64,0.54 5.3,1.2 l 1.2,1.2 0,7.3 0,7.3 6.3,0 c 7.27461,0 8.7,0.98303 8.7,6 0,5.01697 -1.42539,6 -8.7,6 l -6.3,0 0,6.8 0,6.8 -1.2,1.2 c -0.66,0.66 -3.045,1.2 -5.3,1.2 -2.255,0 -4.64,-0.54 -5.3,-1.2 z"
+       id="path3859"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Bennett\Documents\My Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Power Ups\health.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

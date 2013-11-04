@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataTypeLibrary.WeaponData">
+    <Name>Heli 2</Name>
+    <FireRate>2</FireRate>
+    <Accuracy>1</Accuracy>
+    <Velocity>400</Velocity>
+    <Damage>0.3</Damage>
+    <NumBullets>1</NumBullets>
+    <AmmoPerClip>0</AmmoPerClip>
+    <MovementType>2</MovementType>
+    <BulletRadius>6</BulletRadius>
+    <DamageRadius>32</DamageRadius>
+    <AnimationLength>0.1</AnimationLength>
+    <IsBulletTrail>1</IsBulletTrail>
+    <SoundFrequency>1</SoundFrequency>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3876"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="animation.svg">
+  <defs
+     id="defs3878" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="409.50433"
+     inkscape:cy="470.86658"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4415"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3881">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4415"
+       inkscape:export-filename="C:\Users\Bennett\Documents\My Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Player\Weapons\01\animation.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4464"
+         inkscape:export-filename="C:\Users\Bennett\Documents\My Dropbox\One Man Army\One Man Army\HighResolutionContent\Sprites\Player\Weapons\01\animation.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <image
+           y="548.93365"
+           x="135.42856"
+           id="image3892"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAABACAIAAADj3VjoAAAAA3NCSVQICAjb4U/gAAACP0lEQVR4 nO3bQXLaQBAFUJzK3TizTqcsXEVRxsGKMqNW67+38kI24vdoPiD8sa7rDYA8v6pPAIAaCgAglAIA CKUAAEIpAIBQCgAglAIACKUAAEIpAIBQCgAglAIACKUAAEIpAIBQCgAglAIACKUAAEIpAIBQCgAg lAIACKUAAEIpAIBQCgAglAIACKUAAEIpAIBQCgAglAIACPW7+gT2u9/vj5+XZSk8ky0eZ3v+U92h 1yyuR/61+ub/sa5r9Tns8Zz4pze5D9l8Xx9xt15L5EfHz2K3z0eX//tj5pH/2fJvWQB/24sfT2zg Zj3DlS6A1rO4wCDkX6t7/v0K4MyBbnGBRf/QfRa35uOQf60L5O8mMECoxjeBT6L1S5hwZldL/rWW ZWlWAGPvxF7gHVyhs80ibTc5Q/5pmT87Q/5f/siO38r9CGjI/JIvgIE0cS351yrMv9k7gEme9/Ht w7D7z2AWXch8hoPXvwL4mt23UXqJdIz3s/jxK3f8p+2LX+YzHL/+O30ENGMX3pjd62HhF0DJLL49 IHMQR+Zv8b+6zPrvVADD/VN2zwe7AIbb18QGMcr7JC3+2arWf+5HQDuys/Qn2d3EDLElUrHPU7j+ m/0nsC+rnYdZ1JJ/rWvk36wAbu4EnolZ1JJ/rQvk368AABgi+iYwQDIFABBKAQCEUgAAoRQAQCgF ABBKAQCEUgAAoRQAQCgFABBKAQCEUgAAoRQAQCgFABBKAQCEUgAAoRQAQCgFABBKAQCEUgAAof4A jcoZt6JJinwAAAAASUVORK5CYII= "
+           height="64"
+           width="512"
+           style="opacity:0" />
+        <path
+           sodipodi:nodetypes="ccccccccccssscccccccccsscccccsscccsssssccccccccccccccccccccccccccccccssccsssssccccccccccccccccccccccsscccccssccsssssccccccccccccccccccccccccccccccssccsssss"
+           style="fill:#464646;fill-opacity:1"
+           d="m 193.49191,590.50998 -1.18155,-1.42367 1.15213,-4.32633 1.15213,-4.32633 1.56196,-1.75 1.56196,-1.75 1.72256,0 1.72257,0 1.29824,1.56429 1.29824,1.56428 2.19769,-0.55158 c 1.20872,-0.30337 12.44695,-0.79063 24.97385,-1.0828 12.52689,-0.29216 23.78473,-0.78434 25.01742,-1.09372 l 2.24126,-0.56252 0.61234,0.99078 0.61234,0.99079 -0.61023,1.59024 -0.61024,1.59024 -7.64301,0.0124 -7.64301,0.0124 -2.25919,3.48762 -2.2592,3.48762 -1.36836,0 c -0.7526,0 -1.87688,-0.61272 -2.4984,-1.36161 l -1.13003,-1.36161 -5.20997,-0.61704 -5.20998,-0.61704 -2.53243,2.36861 -2.53244,2.36861 -9.67044,1.11004 c -5.31874,0.61052 -10.55114,1.11004 -11.62756,1.11004 l -1.95711,0 -1.18154,-1.42367 z m 25.93665,-7.07633 c 0,-0.275 -0.225,-0.5 -0.5,-0.5 -0.275,0 -0.5,0.225 -0.5,0.5 0,0.275 0.225,0.5 0.5,0.5 0.275,0 0.5,-0.225 0.5,-0.5 z m 106.06335,7.07633 -1.18154,-1.42367 1.15212,-4.32633 1.15212,-4.32633 1.56196,-1.75 1.56197,-1.75 1.72256,0 1.72257,0 1.29824,1.56429 1.29824,1.56428 2.5693,-0.64485 2.5693,-0.64485 46.88218,0.15827 2.16762,-0.71039 1.10307,1.19869 0.58268,1.34029 -0.67189,1.08714 -0.67188,1.08713 -8.00555,0 -8.00554,0 -2.52433,3 -2.52434,3 -1.78866,0 -1.78866,0 -1.14132,-1.37521 -1.14133,-1.37521 -4.1379,-0.66168 -4.1379,-0.66168 -2.59322,2.42685 -2.59322,2.42685 -9.67044,1.11004 c -5.31874,0.61052 -10.55114,1.11004 -11.62755,1.11004 l -1.95712,0 z m 25.93665,-7.07633 c 0,-0.275 -0.225,-0.5 -0.5,-0.5 -0.275,0 -0.5,0.225 -0.5,0.5 0,0.275 0.225,0.5 0.5,0.5 0.275,0 0.5,-0.225 0.5,-0.5 z m 102.06335,7.07633 -1.18154,-1.42367 1.15212,-4.32633 1.15212,-4.32633 1.56196,-1.75 1.56197,-1.75 1.72256,0 1.72257,0 1.29824,1.56429 1.29824,1.56428 2.5693,-0.64485 2.5693,-0.64485 46.95937,0.19525 2.12107,-0.84564 1.22933,1.4972 0.42578,1.14005 -0.67189,1.08714 -0.67188,1.08713 -10.00555,0 -10.00554,0 -2.52433,3 -2.52434,3 -1.28866,0 c -0.70876,0 -1.84886,-0.675 -2.53355,-1.5 l -1.24489,-1.5 -3.0631,0 -3.06311,0 -2.06445,1.88749 -2.06445,1.88749 -9.67044,1.11251 c -5.31874,0.61188 -10.55114,1.11251 -11.62755,1.11251 l -1.95712,0 z m 25.93665,-7.07633 c 0,-0.275 -0.225,-0.5 -0.5,-0.5 -0.275,0 -0.5,0.225 -0.5,0.5 0,0.275 0.225,0.5 0.5,0.5 0.275,0 0.5,-0.225 0.5,-0.5 z m 102.06335,7.07633 -1.18154,-1.42367 1.15212,-4.32633 1.15212,-4.32633 1.56196,-1.75 1.56197,-1.75 1.72256,0 1.72257,0 1.29824,1.56429 1.29824,1.56428 2.5693,-0.64485 2.5693,-0.64485 46.88218,0.15827 1.67786,-0.85198 1.34029,1.34028 0.83522,1.34029 -0.67189,1.08714 -0.67188,1.08713 -8.00555,0 -8.00554,0 -2.52433,3 -2.52434,3 -1.78866,0 -1.78866,0 -1.14132,-1.37521 -1.14133,-1.37521 -4.1379,-0.66168 -4.1379,-0.66168 -2.59322,2.42685 -2.59322,2.42685 -9.67044,1.11004 c -5.31874,0.61052 -10.55114,1.11004 -11.62755,1.11004 l -1.95712,0 z m 25.93665,-7.07633 c 0,-0.275 -0.225,-0.5 -0.5,-0.5 -0.275,0 -0.5,0.225 -0.5,0.5 0,0.275 0.225,0.5 0.5,0.5 0.275,0 0.5,-0.225 0.5,-0.5 z"
+           id="path3897"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
