@@ -1,2 +1,2 @@
-One-Man-Army
+One Man Army
 ============
